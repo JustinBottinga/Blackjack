@@ -1,0 +1,12 @@
+C:\Users\ReVoG\OneDrive\ROC\opdrachten\programeren\bit-accademy\C#-OOP\level-04\Deal-with-it-67a4fb09812d-10e33d5046b1\BlackJack\bin\Debug\net6.0\BlackJack.deps.json
+C:\Users\ReVoG\OneDrive\ROC\opdrachten\programeren\bit-accademy\C#-OOP\level-04\Deal-with-it-67a4fb09812d-10e33d5046b1\BlackJack\bin\Debug\net6.0\BlackJack.dll
+C:\Users\ReVoG\OneDrive\ROC\opdrachten\programeren\bit-accademy\C#-OOP\level-04\Deal-with-it-67a4fb09812d-10e33d5046b1\BlackJack\bin\Debug\net6.0\BlackJack.pdb
+C:\Users\ReVoG\OneDrive\ROC\opdrachten\programeren\bit-accademy\C#-OOP\level-04\Deal-with-it-67a4fb09812d-10e33d5046b1\BlackJack\obj\Debug\net6.0\BlackJack.csproj.AssemblyReference.cache
+C:\Users\ReVoG\OneDrive\ROC\opdrachten\programeren\bit-accademy\C#-OOP\level-04\Deal-with-it-67a4fb09812d-10e33d5046b1\BlackJack\obj\Debug\net6.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ReVoG\OneDrive\ROC\opdrachten\programeren\bit-accademy\C#-OOP\level-04\Deal-with-it-67a4fb09812d-10e33d5046b1\BlackJack\obj\Debug\net6.0\BlackJack.AssemblyInfoInputs.cache
+C:\Users\ReVoG\OneDrive\ROC\opdrachten\programeren\bit-accademy\C#-OOP\level-04\Deal-with-it-67a4fb09812d-10e33d5046b1\BlackJack\obj\Debug\net6.0\BlackJack.AssemblyInfo.cs
+C:\Users\ReVoG\OneDrive\ROC\opdrachten\programeren\bit-accademy\C#-OOP\level-04\Deal-with-it-67a4fb09812d-10e33d5046b1\BlackJack\obj\Debug\net6.0\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\ReVoG\OneDrive\ROC\opdrachten\programeren\bit-accademy\C#-OOP\level-04\Deal-with-it-67a4fb09812d-10e33d5046b1\BlackJack\obj\Debug\net6.0\BlackJack.dll
+C:\Users\ReVoG\OneDrive\ROC\opdrachten\programeren\bit-accademy\C#-OOP\level-04\Deal-with-it-67a4fb09812d-10e33d5046b1\BlackJack\obj\Debug\net6.0\refint\BlackJack.dll
+C:\Users\ReVoG\OneDrive\ROC\opdrachten\programeren\bit-accademy\C#-OOP\level-04\Deal-with-it-67a4fb09812d-10e33d5046b1\BlackJack\obj\Debug\net6.0\BlackJack.pdb
+C:\Users\ReVoG\OneDrive\ROC\opdrachten\programeren\bit-accademy\C#-OOP\level-04\Deal-with-it-67a4fb09812d-10e33d5046b1\BlackJack\obj\Debug\net6.0\ref\BlackJack.dll
